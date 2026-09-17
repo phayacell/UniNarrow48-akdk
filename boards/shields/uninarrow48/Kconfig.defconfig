@@ -1,0 +1,7 @@
+
+if SHIELD_UNINARROW48
+
+config ZMK_KEYBOARD_NAME
+    default "uninarrow48"
+
+endif
